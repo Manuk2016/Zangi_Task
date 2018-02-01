@@ -1,7 +1,7 @@
 {
-  "name": "Zangi_Task",
+  "name": "Zangi",
   "version": "1.0.0",
-  "description": "Posts",
+  "description": "Posts && Users && Commnets",
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"npm run dev\" \"npm run api\"",
@@ -41,6 +41,7 @@
     "react-dom": "^15.5.0",
     "react-js-pagination": "^3.0.0",
     "react-redux": "^5.0.6",
+    "react-responsive-accordion": "^1.0.0",
     "react-router-dom": "^4.1.1",
     "react-router-redux": "^5.0.0-alpha.6",
     "redux": "^3.7.0",
