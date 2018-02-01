@@ -1,0 +1,9 @@
+export const POSTS_REQUEST    = 'POSTS_REQUEST';
+export const POSTS_SUCCESS    = 'POSTS_SUCCESS';
+export const POSTS_ERROR      = 'POSTS_ERROR';
+export const USERS_REQUEST    = 'USERS_REQUEST';
+export const USERS_SUCCESS    = 'USERS_SUCCESS';
+export const USERS_ERROR      = 'USERS_ERROR';
+export const COMMENTS_REQUEST = 'OMMENTS_REQUEST';
+export const COMMENTS_SUCCESS = 'COMMENTS_SUCCESS';
+export const COMMENTS_ERROR   = 'COMMENTS_ERROR';
