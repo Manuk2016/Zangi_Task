@@ -1,7 +1,7 @@
 {
-  "name": "YT",
+  "name": "Zangi_Task",
   "version": "1.0.0",
-  "description": "Yerevan Transport Routing",
+  "description": "Posts",
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"npm run dev\" \"npm run api\"",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romabelka/js_ru_08_06_17"
+    "url": "https://github.com/ManukTagushyan/Zangi_Task"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/romabelka/js_ru_08_06_17"
+    "url": "https://github.com/ManukTagushyan/Zangi_Task"
   },
-  "homepage": "https://github.com/romabelka/js_ru_08_06_17",
+  "homepage": "https://github.com/ManukTagushyan/Zangi_Task",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
@@ -41,7 +41,6 @@
     "react-dom": "^15.5.0",
     "react-js-pagination": "^3.0.0",
     "react-redux": "^5.0.6",
-    "react-responsive-accordion": "^1.0.0",
     "react-router-dom": "^4.1.1",
     "react-router-redux": "^5.0.0-alpha.6",
     "redux": "^3.7.0",
