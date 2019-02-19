@@ -28,8 +28,8 @@
     "concurrently": "^3.5.0",
     "css-loader": "^0.28.4",
     "style-loader": "^0.18.2",
-    "webpack": "^2.0.0",
-    "webpack-dev-server": "^2.0.0"
+    "webpack": "^4.28.3",
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
     "history": "^4.6.3",
